@@ -1,0 +1,46 @@
+body {
+    background: #dad7d7;   
+}
+.container {
+    width: 600px;
+    margin: auto;
+}
+
+header {
+    background: white;
+    padding: 10px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+.post {
+    background: white;
+    margin-top: 10px;
+}
+
+img {
+    width: 100%;
+}
+
+.post h2,
+p {
+    padding: 10px;
+    
+}
+
+.post-heder {
+    display: flex;    
+
+}
+
+h3 {
+    display: flex;    
+    color: gray;
+    position: relative;
+    right: auto;
+    left: 90%;
+    top: -55px;
+
+}
